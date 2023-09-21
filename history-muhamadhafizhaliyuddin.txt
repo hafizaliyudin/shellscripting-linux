@@ -1,0 +1,1000 @@
+ 1014  ls
+ 1015  sudo systemctl start jenkins
+ 1016  cd /path/to/jenkins
+ 1017  clear
+ 1018  exit
+ 1019  sudo apt install openjdk-11-jre-headles
+ 1020  java --version
+ 1021  sudo apt update
+ 1022  sudo systemctl start jenkins
+ 1023  sudo apt install jenkins
+ 1024  cd /path/to/jenkins
+ 1025  clear
+ 1026  cd /path/to/jenkins
+ 1027  java -jar jenkins.war
+ 1028  sudo find / -name jenkins.war
+ 1029  clear
+ 1030  sudo hostnamectl
+ 1031  history
+ 1032  clear
+ 1033  ls
+ 1034  cd React-appa
+ 1035  cd React-app
+ 1036  ls
+ 1037  sudo apt upgrade
+ 1038  cd dockerfile-java
+ 1039  ls
+ 1040  cd a428-cicd-pipline
+ 1041  cd a428-cicd-labs
+ 1042  ls
+ 1043  cat Jenkinsfile
+ 1044  ls
+ 1045  cd jenkins
+ 1046  ls
+ 1047  cd script
+ 1048  ls
+ 1049  cd Script
+ 1050  cleare
+ 1051  clear
+ 1052  cd scripts
+ 1053  ls
+ 1054  cat text.sh
+ 1055  cat test.sh
+ 1056  clear
+ 1057  cd ..
+ 1058  ls
+ 1059  clear
+ 1060  docker run   --name jenkins-docker   --rm   --detach   --privileged   --network jenkins   --network-alias docker   --env DOCKER_TLS_CERTDIR=/certs   --volume jenkins-docker-certs:/certs/client   --volume jenkins-data:/var/jenkins_home   --publish 2376:2376   --publish 3000:3000   docker:dind   --storage-driver overlay2
+ 1061  cd dockerfile-java
+ 1062  code .
+ 1063  cd a428-cicd-labs
+ 1064  git stage .
+ 1065  git commit -m "Add Deploy stage
+ 1066  git commit -m "Add Deploy stage"
+ 1067  git push
+ 1068  git status
+ 1069  git add .
+ 1070  git commit -m "Add Deploy stage"
+ 1071  docker run   --name jenkins-docker   --rm   --detach   --privileged   --network jenkins   --network-alias docker   --env DOCKER_TLS_CERTDIR=/certs   --volume jenkins-docker-certs:/certs/client   --volume jenkins-data:/var/jenkins_home   --publish 2376:2376   --publish 3000:3000   docker:dind   --storage-driver overlay2
+ 1072  cd dockerfile-java
+ 1073  ls
+ 1074  cd a428-cicd-labs
+ 1075  ls
+ 1076  cat Jenkinsfile
+ 1077  cd ..
+ 1078  sudo docker ps
+ 1079  clear
+ 1080  df -h
+ 1081  dd if=/dev/zero of=virtualdisk.img bs=1M count=1000
+ 1082  ls -l
+ 1083  ls virtualdisk.img
+ 1084  cd virtualdisk.img
+ 1085  clear
+ 1086  ls -l
+ 1087  df -h
+ 1088  ls -l
+ 1089  losetup
+ 1090  sudo losetup loop0 virtualdisk.img
+ 1091  sudo losetup loop1 virtualdisk.img
+ 1092  sudo losetup loop2 virtualdisk.img
+ 1093  sudo losetup loop3 virtualdisk.img
+ 1094  losetup
+ 1095  clear
+ 1096  losetup
+ 1097  lsblk
+ 1098  date; ls
+ 1099  ls
+ 1100  clear
+ 1101  date; ls
+ 1102  losetup
+ 1103  lsblk
+ 1104  fdisk -l
+ 1105  sudo apt install fdisk
+ 1106  fdisk -l
+ 1107  lsblk
+ 1108  free -m
+ 1109  cat /proc/meminfo
+ 1110  cat test.txt && date
+ 1111  ls test.txt
+ 1112  cd /path/to/directory
+ 1113  clear
+ 1114  lsblk
+ 1115  sudo blkid
+ 1116  sudo fdisk -l /dev/sda
+ 1117  clear
+ 1118  sudo fdisk -l /dev/sda
+ 1119  sudo fdisk /dev/loop3
+ 1120  clear
+ 1121  sudo docker ps -a
+ 1122  docker images
+ 1123  docker ps
+ 1124  clear
+ 1125  sudo docker network ls
+ 1126  clear
+ 1127  sudo docker stop prometheus
+ 1128  sudo docker stop grafana
+ 1129  sudo docker stop jenkins-docker
+ 1130  sudo docker stop jenkins-java
+ 1131  docker ps
+ 1132  sudo docker stop java-jenkins:2.346.1-1
+ 1133  docker ps
+ 1134  sudo docker stop java-jenkins
+ 1135  docker ps
+ 1136  clear
+ 1137  sudo cat /home/pidul/.bash_history
+ 1138  clear
+ 1139  virtualbox
+ 1140  sudo apt-get install virtualbox-6.1
+ 1141  virtualbox
+ 1142  sudo apt install virtualbox-qt
+ 1143  sudo docke run prometheus
+ 1144  sudo docker run prometheus
+ 1145  clear
+ 1146  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+ 1147  sudo apt-get update
+ 1148  sudo apt-get install virtualbox-6.1
+ 1149  virtualbox
+ 1150  clear
+ 1151  sudo virtualbox --v
+ 1152  clear
+ 1153  cat /etc/shells
+ 1154  sudo su
+ 1155  sudo date
+ 1156  sudo df
+ 1157  sudo du
+ 1158  sudo man
+ 1159  sudo ps ux
+ 1160  sudo top
+ 1161  sudo free
+ 1162  sudo echo
+ 1163  clear
+ 1164  ls
+ 1165  cd 'VirtualBox'
+ 1166  cd 'VirtualBox VMs'
+ 1167  ls
+ 1168  cd hafizh
+ 1169  ls
+ 1170  cat hafizh.vbox
+ 1171  clear
+ 1172  ls
+ 1173  cat hafizh.vdi
+ 1174  clear
+ 1175  ls
+ 1176  cat hafizh.vbox-prev
+ 1177  CLEAR
+ 1178  clear
+ 1179  cd ..
+ 1180  ls
+ 1181  clear
+ 1182  sudo nano apache.conf
+ 1183  free
+ 1184  neofetch
+ 1185  sudo apt install neofetch
+ 1186  neofetch
+ 1187  clear
+ 1188  neofetch
+ 1189  clear
+ 1190  id
+ 1191  id pidul
+ 1192  ls -l
+ 1193  ps -aux
+ 1194  sudo /etc/passwd
+ 1195  clear
+ 1196  ps -aux
+ 1197  ls -l
+ 1198  clear
+ 1199  ls -l
+ 1200  lsblk
+ 1201  sudo blkid
+ 1202  sudo fdisk -l /dev/sda
+ 1203  sudo fdisk /dev/;loop3
+ 1204  sudo fdisk /dev/loop3
+ 1205  clear
+ 1206  sudo fdisk /dev/loop3
+ 1207  sudo fdisk /dev/loop0
+ 1208  sudo fdisk /dev/loop3
+ 1209  c;ear
+ 1210  clear
+ 1211  sudo parted /dev/sda
+ 1212  sudo parted /dev/loop3
+ 1213  mklable msdos
+ 1214  mklabel msdos
+ 1215  cd dockerfile
+ 1216  ls
+ 1217  cd docker-file
+ 1218  ls
+ 1219  cat dockerfile
+ 1220  clear
+ 1221  cd a428-cicd-labs 
+ 1222  ls
+ 1223  cat Jenkins
+ 1224  cat Jenkinsfile
+ 1225  cd ..
+ 1226  cd ./.
+ 1227  cd ..
+ 1228  clear
+ 1229  exit
+ 1230  history
+ 1231  cd dockerfile-java
+ 1232  cd a428-cicd-labs
+ 1233  ls
+ 1234  cat Jenkinsfile
+ 1235  cd jenkins
+ 1236  ls
+ 1237  cat Jenkinsfile
+ 1238  ls
+ 1239  cd script
+ 1240  ls
+ 1241  cd scripts
+ 1242  ls
+ 1243  cat deliver.sh
+ 1244  cd ..
+ 1245  ls
+ 1246  clear
+ 1247  ls
+ 1248  cat Jenkinsfile
+ 1249  clear
+ 1250  ls
+ 1251  cd src
+ 1252  ls
+ 1253  cat app.test.js
+ 1254  cat App.test.js
+ 1255  cat index.js
+ 1256  clear
+ 1257  ks
+ 1258  lw
+ 1259  ls
+ 1260  sudo su]
+ 1261  sudo su
+ 1262  clear
+ 1263  cd ..
+ 1264  netsh wlan show profiles
+ 1265  sudo systemctl /etc/nginx/
+ 1266  sudo systemctl status nginx
+ 1267  ls -l
+ 1268  history
+ 1269  lsblk
+ 1270  px -auc
+ 1271  px -aux
+ 1272  ps -aux
+ 1273  df -h
+ 1274  clear
+ 1275  df -h
+ 1276  ls -l
+ 1277  losetup
+ 1278  sudo losetup loop3 virtualdisk.img
+ 1279  losetup
+ 1280  lsbk
+ 1281  lsblk
+ 1282  sudo blkid
+ 1283  sudo fdisk -l /dev.sda
+ 1284  sudo fdisk -l /dev/sda
+ 1285  sudo fdisk /dev/loop3
+ 1286  sudo parted /dev/sda
+ 1287  sudo parted /dev/loop3
+ 1288  sudo parted /dev/loop0
+ 1289  clear
+ 1290  sudo parted /dev/loop3
+ 1291  sudo mkfs.ext4 /dev/loop3p1
+ 1292  mksf
+ 1293  df
+ 1294  ls -i virtualdisk.img
+ 1295  stat -f virtualdisk.img
+ 1296  cd /var/www/html/
+ 1297  ls
+ 1298  cd ..
+ 1299  cat index.nginx-debian.html
+ 1300  clear
+ 1301  ls
+ 1302  cd html
+ 1303  ls
+ 1304  clear
+ 1305  ls
+ 1306  cat index.nginx-debian.html
+ 1307  sudo systemctl status nginx
+ 1308  ls
+ 1309  clear
+ 1310  ls
+ 1311  cat index.nginx-debian.html
+ 1312  sudo systemctl status nginx
+ 1313  sudo systemctl stop nginx
+ 1314  sudo systemctl status nginx
+ 1315  sudo systemctl start nginx
+ 1316  sudo systemctl status nginx
+ 1317  sudo mkdir example1.com example2.com
+ 1318  ls
+ 1319  cd example1
+ 1320  cd example1.com
+ 1321  ls
+ 1322  tree
+ 1323  sudo apt install tree
+ 1324  tree
+ 1325  cd ..
+ 1326  tree
+ 1327  pwd
+ 1328  sudo touch example1.com/index.html example2.com/index.html
+ 1329  ls
+ 1330  cd example1.com
+ 1331  ls
+ 1332  cd ..
+ 1333  tree
+ 1334  sudo nano example1.com/index.html
+ 1335  sudo car example1.com/index.html
+ 1336  sudo cat example1.com/index.html
+ 1337  sudo nano example2.com/index/html
+ 1338  sudo nano example2.com/index.html
+ 1339  sudo cat example2.com/index.html
+ 1340  sudo systemctl restart nginx
+ 1341  cd example1
+ 1342  cd example1,com
+ 1343  cd example1.com
+ 1344  ls
+ 1345  code .
+ 1346  touch main.js
+ 1347  cd ..
+ 1348  sudo touch example1.com/main.js
+ 1349  ls
+ 1350  cd example1.com
+ 1351  ls
+ 1352  cat main.js
+ 1353  sudo rm main.js
+ 1354  ls
+ 1355  cd ..
+ 1356  c d..
+ 1357  cd ..
+ 1358  ls
+ 1359  exit
+ 1360  ls -l
+ 1361  sudo adduser user01
+ 1362  sudo adduser user02
+ 1363  ls
+ 1364  cd ..
+ 1365  ls
+ 1366  cd user01
+ 1367  cd pidul
+ 1368  clear
+ 1369  sudo mkdir /home/user01/latihan-user01
+ 1370  ls
+ 1371  sudo ls -l /home/user01
+ 1372  sudo touch /home/user01/latihan-user01/file-user01.sh
+ 1373  sudo ls -l /home/user01/latihan-user01
+ 1374  sudo chown -R user02:user02 /home/user01/latihan-user01
+ 1375  sudo ls -l /home/user01
+ 1376  sudo ls -l /home/user01/latihan-user01
+ 1377  sudo chmod 777 /home/user01/latihan-user01/file-user01.sh
+ 1378  sudo ls -l /home/user01/latihan-user01
+ 1379  ls
+ 1380  pwd
+ 1381  sudo tar -cf arsip.tar file1 file2 file3
+ 1382  sudo tar -cf arsip.tar /etc
+ 1383  ls
+ 1384  tar -cf user-etc.tar /etc
+ 1385  sudo tar -cf sudo-etc.tar /etc
+ 1386  ls -l *.tar
+ 1387  ls
+ 1388  cd arsip.tar
+ 1389  tar -tf user-etc.tar
+ 1390  sudo tar -cJf arsip.tar.xz /etc
+ 1391  ls -lh
+ 1392  tar -xJf arsip.tar.xz
+ 1393  ls -lh
+ 1394  ;s
+ 1395  ls
+ 1396  sudo 
+ 1397  clear
+ 1398  nano hello.sh
+ 1399  cat hello.sh
+ 1400  ls
+ 1401  ls -l
+ 1402  cat test.txt && date
+ 1403  clear
+ 1404  ls -l
+ 1405  l
+ 1406  sl
+ 1407  docker ps
+ 1408  docker images
+ 1409  docker hub
+ 1410  sudo docker network ls
+ 1411  lsblk
+ 1412  history
+ 1413  cat test.txt && date
+ 1414  tree
+ 1415  tre
+ 1416  tree
+ 1417  ls
+ 1418  cd arsip.tar
+ 1419  sudo cat arsip.tar
+ 1420  pwd
+ 1421  ls
+ 1422  cat sudo-etc.tar
+ 1423  clear
+ 1424  ls
+ 1425  ls -l
+ 1426  sudo systemctl status nginx
+ 1427  sudo apt systemctl status nginx
+ 1428  sudo systemctl status nginx
+ 1429  bash hello.sh
+ 1430  chmod +x hello.sh
+ 1431  ls -l
+ 1432  ../hello.sh
+ 1433  cat hello.sh
+ 1434  ./hello.sh
+ 1435  bash hello.sh
+ 1436  sudo variable=value
+ 1437  data=/home/haris/backups
+ 1438  data=/home/pidul/backups
+ 1439  number=100
+ 1440  echo $number
+ 1441  free -m
+ 1442  cat /proc/meminfo
+ 1443  sudo free -m
+ 1444  sudo df -h --output=source,pcent --exclude=tmpfs
+ 1445  df -h
+ 1446  df -h --output=source,pcent --exclude=tmpsf
+ 1447  history >history.txt
+ 1448  history > history.txt
+ 1449  clear
+ 1450  dig www.oyindonesia.com
+ 1451  history
+ 1452  docker run   --name jenkins-docker   --rm   --detach   --privileged   --network jenkins   --network-alias docker   --env DOCKER_TLS_CERTDIR=/certs   --volume jenkins-docker-certs:/certs/client   --volume jenkins-data:/var/jenkins_home   --publish 2376:2376   --publish 3000:3000   docker:dind   --storage-driver overlay2
+ 1453  cd dockerfile-java
+ 1454  cd a428-cicd-labs
+ 1455  ls
+ 1456  catJenkinsfile
+ 1457  cat Jenkinsfile
+ 1458  docker run   --name jenkins-docker   --rm   --detach   --privileged   --network jenkins   --network-alias docker   --env DOCKER_TLS_CERTDIR=/certs   --volume jenkins-docker-certs:/certs/client   --volume jenkins-data:/var/jenkins_home   --publish 2376:2376   --publish 3000:3000   docker:dind   --storage-driver overlay2
+ 1459  cd ..
+ 1460  exit
+ 1461  ls -l
+ 1462  df -f
+ 1463  df -l
+ 1464  clear
+ 1465  df -l
+ 1466  ls
+ 1467  cd React-app
+ 1468  ls
+ 1469  git init
+ 1470  cd ..
+ 1471  cd dockerfile-java
+ 1472  ls
+ 1473  cd a428-cicd-labs
+ 1474  ls
+ 1475  nano Jenkinsfile
+ 1476  cat Jenkinsfile
+ 1477  cd ..
+ 1478  history
+ 1479  sudo docker ps
+ 1480  sudo docker network ls
+ 1481  sudo docker version
+ 1482  ls -a
+ 1483  ls
+ 1484  clear
+ 1485  cd docker-file
+ 1486  cat dockerfile
+ 1487  cat jenkinsfile
+ 1488  LS
+ 1489  ls
+ 1490  cd a428-cicd-labs
+ 1491  ls
+ 1492  cat Jenkinsfile
+ 1493  cd ..
+ 1494  cd dockerfile-ja
+ 1495  cd dockerfile-java
+ 1496  ls
+ 1497  cd -a428-cicd-labs
+ 1498  cd a428-cicd-labs
+ 1499  ls
+ 1500  cat Jenkinsfile
+ 1501  code .
+ 1502  docker create   --name jenkins-docker   --privileged   --network jenkins   --network-alias docker   --env DOCKER_TLS_CERTDIR=/certs   --volume jenkins-docker-certs:/certs/client   --volume jenkins-data:/var/jenkins_home   --publish 2376:2376   --publish 3000:3000   --restart always   docker:dind   --storage-driver overlay2
+ 1503  sudo docker network ls
+ 1504  history
+ 1505  cd ..
+ 1506  sudo docker countainer stop docker-jenkins
+ 1507  sudo docker countainer stop jenkins-docker
+ 1508  sudo docker stop jenkins-docker
+ 1509  cd React-app
+ 1510  git status
+ 1511  clear
+ 1512  df -f
+ 1513  df -h
+ 1514  ls
+ 1515  cd jenkins
+ 1516  ls
+ 1517  cat Jenkinsfile
+ 1518  ls
+ 1519  cd ..
+ 1520  clear
+ 1521  history
+ 1522  lsblk
+ 1523  free 
+ 1524  lsblk
+ 1525  dasdmnakdclear
+ 1526  clear
+ 1527  history
+ 1528  cd React-app
+ 1529  ls
+ 1530  git init
+ 1531  git add README.md
+ 1532  git commit -m "first commit"
+ 1533  git status
+ 1534  git add jenkins/scripts/deliver.sh jenkins/scripts/kill.sh jenkins/scripts/test.sh
+ 1535  git add .
+ 1536  git commit -m "Update Jenkins scripts"
+ 1537  git push origin react-app
+ 1538  git push origin react-aoo
+ 1539  git push origin react-app
+ 1540  clear
+ 1541  git add ,
+ 1542  git add .
+ 1543  git commit -m "Add Deploy stage"
+ 1544  git push 
+ 1545  git status
+ 1546  ls -a
+ 1547  ls -l
+ 1548  lspls
+ 1549  lsplk
+ 1550  lsblk
+ 1551  history
+ 1552  sudo systemctl status nginx
+ 1553  cd /etc/nginx
+ 1554  sites-enabled
+ 1555  cd sites-enabled
+ 1556  ls
+ 1557  cat default
+ 1558  ls
+ 1559  cat jenkins.conf
+ 1560  sudo docker versiob
+ 1561  sudo docker version
+ 1562  cd ..
+ 1563  sudo root
+ 1564  sudo su
+ 1565  exit
+ 1566  sudo docker images
+ 1567  sudo docker version
+ 1568  sudo apt update
+ 1569  sudo apt upgrade
+ 1570  ls -l
+ 1571  ls
+ 1572  cat hello.sh
+ 1573  ls arsip.tar
+ 1574  cd arsip.tar
+ 1575  `cat arsip.tar
+ 1576  ls
+ 1577  exit
+ 1578  clear
+ 1579  cat test.txt && date
+ 1580  ls -a
+ 1581  ls -l
+ 1582  cat hello.sh && date
+ 1583  chmod +x hello.sh
+ 1584  cat hello.sh
+ 1585  nano hello.sh
+ 1586  ./hello.sh
+ 1587  ls -l
+ 1588  cat history.txt
+ 1589  clear
+ 1590  ls -l
+ 1591  sudo rm history.txt
+ 1592  ls
+ 1593  cat virtualdisk.img
+ 1594  cler
+ 1595  clear
+ 1596  ls -l
+ 1597  ls -a
+ 1598  /home/pidul/hello.sh
+ 1599  ./hello.sh
+ 1600  bash hello.sh
+ 1601  variable=velue
+ 1602  number=100
+ 1603  data/home/pidul/baskups
+ 1604  data/home/pidul/backups
+ 1605  data=/home/pidul/backups
+ 1606  program="/mnt/home/c/progra files"
+ 1607  echo $variable
+ 1608  echo $number
+ 1609  cd dockerfile-java
+ 1610  cd a428-cicd-labs
+ 1611  ls
+ 1612  cat Jenkinsfile
+ 1613  ls
+ 1614  cd jenkins
+ 1615  ls
+ 1616  cat Jekinsfile
+ 1617  cat Jenkinsfile
+ 1618  cd scripts
+ 1619  ls
+ 1620  cat deliver.sh
+ 1621  lsblk
+ 1622  cd ..
+ 1623  coce .
+ 1624  code .
+ 1625  ls -l
+ 1626  cd dockerfile-java
+ 1627  cd a428-cicd-labs
+ 1628  cat Jenkinsfile
+ 1629  sudo docker images
+ 1630  cd a428-cicd-labs
+ 1631  git stage .
+ 1632  git commit "Add Deploy stage"
+ 1633  git commit -m "Add Deploy stage"
+ 1634  git push
+ 1635  git status
+ 1636  cd dockerfile-java
+ 1637  code .
+ 1638  cd dockerfile-java
+ 1639  cd a428-cicd-labs
+ 1640  code .
+ 1641  cd ..
+ 1642  ls -la
+ 1643  ip a
+ 1644  node -v
+ 1645  sudo apt install nodejs
+ 1646  sudo node -v
+ 1647  sudo npm init -y
+ 1648  npm init -y
+ 1649  sudo npm install express - save
+ 1650  sudo npm install express -save
+ 1651  sudo npm install express-save
+ 1652  npm install express — save
+ 1653  sudo apt update; sudp apt upgrade
+ 1654  npm install express — save
+ 1655  python3 -version
+ 1656  clear
+ 1657  python3 -version
+ 1658  python3 — version
+ 1659  sudo python3 — version
+ 1660  pwd
+ 1661  python3 /home/pidul/test.py
+ 1662  clear
+ 1663  git config --list
+ 1664  git status
+ 1665  TEST_VAR='Hello World!'
+ 1666  set | grep TEST_VAR
+ 1667  prtintenv | grep TEST_VAR
+ 1668  env
+ 1669  test
+ 1670  set
+ 1671  sudo docker images
+ 1672  ipconfig
+ 1673  lsblk
+ 1674  sudo docker ps
+ 1675  cd dockerfile-java
+ 1676  ls 
+ 1677  ls -l
+ 1678  cd a428-cicd-labs
+ 1679  cd ..
+ 1680  code .
+ 1681  cd ..
+ 1682  sudo su
+ 1683  git stage .
+ 1684  cd a428-cicd-labs
+ 1685  git stage .
+ 1686  git commit -m "Add Deploy stage"
+ 1687  git push
+ 1688  git status
+ 1689  sudo docker images
+ 1690  sudo systemctl status nginx
+ 1691  cd dockerfile-java
+ 1692  code .
+ 1693  cd dockerfile-java
+ 1694  code .
+ 1695  cd a428-cicd-labs
+ 1696  sudo docker images
+ 1697  sudo docker ps
+ 1698  sudo docker network ls
+ 1699  cd ..
+ 1700  sudo docker exec -it prometheus sh
+ 1701  cd a428-cicd-labs
+ 1702  ls
+ 1703  cat Jenkinsfile
+ 1704  clear
+ 1705  cat dockerfile
+ 1706  cd ..
+ 1707  cat dockerfile
+ 1708  cd a428-cicd-labs
+ 1709  git stage .
+ 1710  git commit -m "Add Deploy stage"
+ 1711  git push
+ 1712  git status
+ 1713  git stage .
+ 1714  git commit -m "Add Deploy stage"
+ 1715  git push
+ 1716  git stage ,
+ 1717  git stage .
+ 1718  git commit -m "Add Deploy stage"
+ 1719  git push
+ 1720  git status
+ 1721  git stage .
+ 1722  git commit -m "Add Deploy stage "
+ 1723  git commit -m "Add Deploy stage"
+ 1724  git push
+ 1725  git status
+ 1726  git stage .
+ 1727  git commit -m "Add Deploy stage"
+ 1728  git stage .
+ 1729  git commit -m "Add Deploy stage"
+ 1730  git push
+ 1731  git status
+ 1732  cd a428-cicd-labs
+ 1733  git stage .
+ 1734  git commit -m Add Deploy stage"
+ 1735  git commit -m "Add Deploy stage"
+ 1736  git push
+ 1737  git commit -m "Add Deploy stage"
+ 1738  git status
+ 1739  git add Jenkinsfile
+ 1740  git commit -m "Add Deploy stage"
+ 1741  git push
+ 1742  sudo docker exec prometheus sh
+ 1743  sudo docker exec-it  prometheus sh
+ 1744  sudo docker exec -it prometheus sh
+ 1745  sudo docker restart prometheus
+ 1746  sudo docker stop prometheus
+ 1747  sudo docker start prometheus
+ 1748  sudo systemctl jenkins status
+ 1749  sudo docker ps
+ 1750  sudo docker exec -it prometheus_prometheus /bin/sh
+ 1751  sudo docker exec -it namacontainer_prometheus /bin/sh
+ 1752  docker exec -it namakontainer_prometheus /bin/sh
+ 1753  clear
+ 1754  sudo systemctl status jenkins
+ 1755  sudo service jenkins status
+ 1756  ls
+ 1757  cd dockerfile-java
+ 1758  code .
+ 1759  sudo systemctl status nginx
+ 1760  sudo docker ls -a
+ 1761  sudo docker ps
+ 1762  sudo docker container ls -a
+ 1763  cd ..
+ 1764  sudo docker exec -it prometheus sh
+ 1765  sudo docker restart prometheus
+ 1766  sudo docker container ls -a
+ 1767  logs
+ 1768  exit
+ 1769  cd dockerfile- java
+ 1770  ls
+ 1771  cd dockerfile-kjava
+ 1772  cd dockerfile-java
+ 1773  clear
+ 1774  ls
+ 1775  cd a428-cicd-labs
+ 1776  cat Jenkinsfile
+ 1777  cd ..
+ 1778  mkdir wayshub
+ 1779  ls
+ 1780  cd wayshub
+ 1781  git clone https://github.com/dumbwaysdev/wayshub-frontend
+ 1782  ls
+ 1783  cd wayshub-frontend
+ 1784  ls
+ 1785  cd ,,
+ 1786  cd ..
+ 1787  clear
+ 1788  code ,
+ 1789  code .
+ 1790  cd wayshub-frontend
+ 1791  git init
+ 1792  la
+ 1793  git remote add origin https://github.com/hafizaliyudin/wayshub.git
+ 1794  git remote -v
+ 1795  git add .
+ 1796  git status
+ 1797  git commit -m "first commit"
+ 1798  git push origin main
+ 1799  git init
+ 1800  clear
+ 1801  git init
+ 1802  git add README.md
+ 1803  git commit -m "first commit"
+ 1804  git branch -M main
+ 1805  git remote add origin https://github.com/hafizaliyudin/wayshub.git
+ 1806  git remote set-url origin <URL baru>
+ 1807  git remote set-url origin https://github.com/hafizaliyudin/wayshub.git
+ 1808  git remote add upstream https://github.com/hafizaliyudin/wayshub.git
+ 1809  git push git push -u origin main
+ 1810  git pull
+ 1811  git remote -v
+ 1812  git add .
+ 1813  git status
+ 1814  git commit -m "first commit"
+ 1815  git push origin main
+ 1816  git push -u origin main
+ 1817  clear
+ 1818  git init
+ 1819  la
+ 1820  git remote add origin https://github.com/hafizaliyudin/CICD.git
+ 1821  git remote -v
+ 1822  git add .
+ 1823  git status
+ 1824  git commit -m "first commit"
+ 1825  git push origin main
+ 1826  cd ..
+ 1827  cd wayshub-frontend
+ 1828  clear
+ 1829  cd ..
+ 1830  ls
+ 1831  nano script-<username_dicoding>.sh
+ 1832  nano script-muhamadhafizhaliyuddin.sh
+ 1833  ls
+ 1834  nano script-muhamadhafizhaliyuddin.sh
+ 1835  nano script-muhamadhafizhaliyuddin.sh
+ 1836  cat script-muhamadhafizhaliyuddin.sh
+ 1837  ls -l
+ 1838  clear
+ 1839  chmod +x script-muhamadhafizhaliyuddin.sh
+ 1840  ls
+ 1841  nano script-muhamadhafizhaliyuddin.sh
+ 1842  df -h
+ 1843  lsblk
+ 1844  sudo fdisk -l /dev/sda
+ 1845  fdisk -l
+ 1846  sudo fdisk -l
+ 1847  nano script-muhamadhafizhaliyuddin.sh
+ 1848  cat script-muhamadhafizhaliyuddin.sh
+ 1849  sudo fdisk /dev.loop3
+ 1850  sudo fdisk /dev/loop3
+ 1851  nano script-muhamadhafizhaliyuddin.sh
+ 1852  sudo su
+ 1853  history
+ 1854  sudo .bash_history
+ 1855  .bash_history
+ 1856  cat script-nama file.txt .bash_history
+ 1857  cat script-muhamadhafizhaliyuddin.sh .bash_history
+ 1858  nano history-muhamadhafizhaliyuddin.txt
+ 1859  ls
+ 1860  chmod +x history-muhamadhafizhaliyuddin.txt
+ 1861  ls
+ 1862  nano history-muhamadhafizhaliyuddin.txt
+ 1863  ls
+ 1864  pwd
+ 1865  clear
+ 1866  ls
+ 1867  script-muhamadhafizhaliyuddin.sh
+ 1868  ./script-muhamadhafizhaliyuddin.sh
+ 1869  ls
+ 1870  clear
+ 1871  mkdir submission1-linux-muh-hafizhaliyuddin
+ 1872  cd submission1-linux-muh-hafizhaliyuddin
+ 1873  mv script-muhamadhafizhaliyuddin.sh to submission1-linux-muh-hafizhaliyuddin
+ 1874  ls
+ 1875  cd ..
+ 1876  ls
+ 1877  mv script-muhamadhafizhaliyuddin.sh ~/submission1-linux-muh-hafizhaliyuddin
+ 1878  ls
+ 1879  cd submission1-linux-muh-hafizhaliyuddin
+ 1880  ls
+ 1881  mv history-muhamadhafizhaliyuddin.txt ~/submission1-linux-muh-hafizhaliyuddin
+ 1882  clear
+ 1883  ls
+ 1884  cd ..
+ 1885  mv history-muhamadhafizhaliyuddin.txt ~/submission1-linux-muh-hafizhaliyuddin
+ 1886  ls -l
+ 1887  cd submission1-linux-muh-hafizhaliyuddin
+ 1888  ls
+ 1889  cd ..
+ 1890  ./script-muhamadhafizhaliyuddin.sh
+ 1891  cat .bash_history
+ 1892  cd submission1-linux-muh-hafizhaliyuddin
+ 1893  ls
+ 1894  .script-muhamad-hafizhaliyuddin.sh
+ 1895  ./script-muhamadhafizhaliyuddin.sh
+ 1896  history.txt
+ 1897  cd ..
+ 1898  history >history.txt
+ 1899  ls
+ 1900  cat history.txt
+ 1901  clear
+ 1902  cat history.txt
+ 1903  ls
+ 1904  mv history.txt history-muhamad-hafizh-aliyuddin.txt
+ 1905  ls
+ 1906  clear
+ 1907  ls -l
+ 1908  chmod +x history-muhamad-hafizh-aliyuddin.txt
+ 1909  ls
+ 1910  cd submission1-linux-muh-hafizhaliyuddin
+ 1911  ls
+ 1912  sudo rm history-muhamadhafizhaliyuddin.txt
+ 1913  ls
+ 1914  cd ..
+ 1915  mv history-muhamad-hafizh-aliyuddin.txt ~/submission1-linux-muh-hafizhaliyuddin
+ 1916  ls
+ 1917  cd submission1-linux-muh-hafizhaliyuddin
+ 1918  ls
+ 1919  clear
+ 1920  ls
+ 1921  cd ..
+ 1922  zip submission1-linux-muh-hafizhaliyuddin
+ 1923  sudo apt install zip
+ 1924  zip submission1-linux-muh-hafizhaliyuddin
+ 1925  zip submission1-linux-muh-hafizhaliyuddin.zip submission1-linux-muh-hafizhaliyuddin
+ 1926  ls
+ 1927  tar -cf arsip.zipr file1 file2 file3
+ 1928  tar -cf arsip.zip file1 file2 file3
+ 1929  clear
+ 1930  cd submission1-linux-muh-hafizhaliyuddin
+ 1931  ls
+ 1932  ls -l
+ 1933  tar -cf arsip.zip history-muhamaf-hafizh-aliyuddin.txt
+ 1934  tar -cf arsip.zip 
+ 1935  ls
+ 1936  cd ..
+ 1937  tar -cf submission1-linux-muh-hafizhaliyuddin.zip history-muhamaf-hafizh-aliyuddin.txt script-muhamadhafizhaliyuddin.sh
+ 1938  tar -cf submission1-linux-muh-hafizhaliyuddin.zip history-muhamad-hafizh-aliyuddin.txt script-muhamadhafizhaliyuddin.sh
+ 1939  ls
+ 1940  cd submission1-linux-muh-hafizhaliyuddin.zip
+ 1941  cd submission1-linux-muh-hafizhaliyuddin
+ 1942  ls
+ 1943  tar -cf submission1-linux-muh-hafizhaliyuddin.zip history-muhamad-hafizh-aliyuddin.txt script-muhamadhafizhaliyuddin.sh
+ 1944  ls
+ 1945  chmod +x submission1-linux-muh-hafizhaliyuddin.zip
+ 1946  ls
+ 1947  rm arsip.zip
+ 1948  ls
+ 1949  cd ..
+ 1950  ls
+ 1951  chmod +x submission1-linux-muh-hafizhaliyuddin.zip
+ 1952  ls
+ 1953  cdd submission1-linux-muh-hafizhaliyuddin.zip
+ 1954  cd submission1-linux-muh-hafizhaliyuddin.zip
+ 1955  cd submission1-linux-muh-hafizhaliyuddin
+ 1956  ls
+ 1957  cd ..
+ 1958  rm submission1-linux-muh-hafizhaliyuddin.zip
+ 1959  ls
+ 1960  clear
+ 1961  ls
+ 1962  cd submission1-linux-muh-hafizhaliyuddin
+ 1963  ls
+ 1964  rm submission1-linux-muh-hafizhaliyuddin.ziop
+ 1965  rm submission1-linux-muh-hafizhaliyuddin.zip
+ 1966  clear
+ 1967  ls
+ 1968  tar -cf submission1-linux-muh-hafizhaliyuddin.zip history-muhamad-hafizh-aliyuddin.txt script-muhamadhafizhaliyuddin.shls
+ 1969  clear
+ 1970  ls
+ 1971  chmod +x ss.png
+ 1972  ls
+ 1973  rm submission1-linux-muh-hafizhaliyuddin.zip
+ 1974  ls
+ 1975  clear
+ 1976  ls
+ 1977  tar -cf submission1-linux-muh-hafizhaliyuddin.zip
+ 1978  tar -cf submission1-linux-muh-hafizhaliyuddin.zip history-muhamad-hafizh-aliyuddin.txt script-muhamadhafizhaliyuddin.sh  ss.png 'Screenshot 2023-08-24 124305.png:Zone.Identifier'
+ 1979  ls
+ 1980  chmod 
+ 1981  clear
+ 1982  chmod +x submission1-linux-muh-hafizhaliyuddin.zip
+ 1983  ls
+ 1984  cd ..
+ 1985  zip submission1-linux-muh-hafizhaliyuddin.zip submission1-linux-muh-hafizhaliyuddin
+ 1986  ls
+ 1987  gzipzip submission1-linux-muh-hafizhaliyuddin.zip submission1-linux-muh-hafizhaliyuddin
+ 1988  zip submission1-linux-muh-hafizhaliyuddin.zip submission1-linux-muh-hafizhaliyuddin
+ 1989  ls
+ 1990  clear
+ 1991  ls -la
+ 1992  ls -l
+ 1993  cd wayshub
+ 1994  ls
+ 1995  exit
+ 1996  cd wayshub-frontend
+ 1997  git status
+ 1998  ls
+ 1999  cd submission1-linux-muh-hafizhaliyuddin
+ 2000  ls
+ 2001  ./script-muhamadhafizhaliyuddin.sh
+ 2002  ls
+ 2003  sudo rm submission1-linux-muh-hafizhaliyuddin.zip
+ 2004  ls
+ 2005  cat history-muhamad-hafizh-aliyuddin.txt
+ 2006  clear
+ 2007  ls
+ 2008  cd ,,
+ 2009  cd ..
+ 2010  ls
+ 2011  chmod +x submission1-linux-muh-hafizhaliyuddin.zip
+ 2012  ls -l
+ 2013  history >history-muhamadhafizhaliyuddin.txt
